@@ -1,0 +1,23 @@
+.banner{
+    background-color: #65a17f;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-logo {
+    height: 100px;
+    width: auto;
+}
+
+#oxie {
+    color: #65a17f;
+    font-size: 100px;
+}
+
+.bold{
+font-weight: 900px;
+
+}
+
